@@ -1,0 +1,33 @@
+date,description,amount,type,category
+2026-03-01,Monthly Salary,3200.00,income,income
+2026-03-01,Freelance Design Project,950.00,income,income
+2026-03-02,Grocery Shopping - Whole Foods,87.50,expense,groceries
+2026-03-03,Uber Ride to Office,18.50,expense,transport
+2026-03-04,Netflix Subscription,15.99,expense,entertainment
+2026-03-05,Lunch at Chipotle,12.75,expense,food
+2026-03-06,Electricity Bill,125.00,expense,utilities
+2026-03-07,Coffee at Starbucks,6.45,expense,food
+2026-03-08,Gym Monthly Membership,49.99,expense,health
+2026-03-09,Amazon - Phone Case,24.99,expense,shopping
+2026-03-10,Internet Bill (Xfinity),79.99,expense,utilities
+2026-03-11,Dinner with Friends,45.00,expense,food
+2026-03-12,Lyft to Mall,14.25,expense,transport
+2026-03-13,Weekly Groceries - Trader Joes,62.30,expense,groceries
+2026-03-14,Spotify Premium,11.99,expense,entertainment
+2026-03-15,Side Hustle Payment,500.00,income,income
+2026-03-15,Water Bill,35.00,expense,utilities
+2026-03-16,Target - Skincare,38.50,expense,shopping
+2026-03-17,Breakfast at McDonalds,9.80,expense,food
+2026-03-18,Gas Station - Shell,52.00,expense,transport
+2026-03-19,Snacks and Drinks,8.50,expense,food
+2026-03-20,Movie Tickets - AMC,32.00,expense,entertainment
+2026-03-21,Laundry Service,15.00,expense,utilities
+2026-03-22,Birthday Gift for Friend,65.00,expense,shopping
+2026-03-23,Costco Groceries,94.75,expense,groceries
+2026-03-24,Vitamin Supplements,28.99,expense,health
+2026-03-25,DoorDash Delivery,22.50,expense,food
+2026-03-26,iCloud Storage Subscription,2.99,expense,entertainment
+2026-03-27,Parking Fees,12.00,expense,transport
+2026-03-28,Dividend Income,180.00,income,income
+2026-03-29,Weekend Brunch,35.00,expense,food
+2026-03-30,Monthly Phone Plan - T-Mobile,55.00,expense,utilities

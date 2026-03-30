@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# Build
+.next/
+dist/
+build/
+*.egg-info/
+
+# Database
+*.db
+!*.db-journal
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+postgres_data/
+
+# ML Models (large files)
+*.pkl
+*.bin
+*.h5
+!services/ml/models/.gitkeep
+
+# Logs
+*.log

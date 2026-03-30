@@ -1,0 +1,101 @@
+date,description,amount,type,category
+2025-04-01,Monthly Salary,5000.00,income,income
+2025-04-01,Rent Payment,1200.00,expense,bills_utilities
+2025-04-02,Coffee at Starbucks,5.50,expense,food_drink
+2025-04-02,Grocery Store,45.30,expense,groceries
+2025-04-03,Netflix Subscription,15.99,expense,subscription
+2025-04-03,Spotify Premium,9.99,expense,subscription
+2025-04-04,Gas Station,42.00,expense,transportation
+2025-04-04,Lunch at Chipotle,12.50,expense,food_drink
+2025-04-05,Online Shopping - Amazon,89.99,expense,shopping
+2025-04-05,Uber Ride,18.75,expense,transportation
+2025-04-06,Gym Membership,49.99,expense,health
+2025-04-06,Dinner at Italian Restaurant,65.00,expense,food_drink
+2025-04-07,Phone Bill,55.00,expense,bills_utilities
+2025-04-07,Morning Coffee,4.75,expense,food_drink
+2025-04-08,Freelance Payment,800.00,income,income
+2025-04-08,Online Course - Udemy,12.99,expense,education
+2025-04-09,Grocery Store,52.40,expense,groceries
+2025-04-09,Movie Tickets,28.00,expense,entertainment
+2025-04-10,Electric Bill,78.50,expense,bills_utilities
+2025-04-10,Lunch with Friends,22.00,expense,food_drink
+2025-04-11,Amazon Prime,14.99,expense,subscription
+2025-04-11,Coffee Shop,6.25,expense,food_drink
+2025-04-12,Weekend Brunch,35.00,expense,food_drink
+2025-04-12,Clothing Store,120.00,expense,shopping
+2025-04-13,Uber Eats Delivery,28.50,expense,food_drink
+2025-04-13,Concert Tickets,75.00,expense,entertainment
+2025-04-14,Gas Station,38.00,expense,transportation
+2025-04-14,Health Supplement,32.00,expense,health
+2025-04-15,Mid-month Bonus,300.00,income,income
+2025-04-15,Water Bill,35.00,expense,bills_utilities
+2025-04-16,Grocery Store,61.20,expense,groceries
+2025-04-16,Coffee,5.00,expense,food_drink
+2025-04-17,Book Purchase,18.99,expense,education
+2025-04-17,Lunch,14.50,expense,food_drink
+2025-04-18,Transfer to Savings,500.00,expense,transfer
+2025-04-18,Snacks,8.75,expense,food_drink
+2025-04-19,Video Games,59.99,expense,entertainment
+2025-04-19,Haircut,30.00,expense,health
+2025-04-20,Weekend Dinner,55.00,expense,food_drink
+2025-04-20,Public Transport Pass,45.00,expense,transportation
+2025-04-21,Internet Bill,65.00,expense,bills_utilities
+2025-04-21,Morning Coffee,5.25,expense,food_drink
+2025-04-22,Grocery Store,48.90,expense,groceries
+2025-04-22,Lunch,13.00,expense,food_drink
+2025-04-23,Stock Investment,200.00,expense,investment
+2025-04-23,Dinner,42.00,expense,food_drink
+2025-04-24,Coffee Shop,7.50,expense,food_drink
+2025-04-24,Gas Station,40.00,expense,transportation
+2025-04-25,Side Hustle Income,450.00,income,income
+2025-04-25,New Shoes,85.00,expense,shopping
+2025-04-26,Grocery Store,55.60,expense,groceries
+2025-04-26,Dining Out,38.00,expense,food_drink
+2025-04-27,Cloud Storage Sub,2.99,expense,subscription
+2025-04-27,Taxi,22.00,expense,transportation
+2025-04-28,Doctor Visit,120.00,expense,health
+2025-04-28,Pharmacy,24.50,expense,health
+2025-04-29,Coffee,5.00,expense,food_drink
+2025-04-29,Grocery Store,42.30,expense,groceries
+2025-04-30,Insurance Premium,150.00,expense,bills_utilities
+2025-04-30,End of Month Dinner,48.00,expense,food_drink
+2025-05-01,Monthly Salary,5000.00,income,income
+2025-05-01,Rent Payment,1200.00,expense,bills_utilities
+2025-05-02,Coffee,5.75,expense,food_drink
+2025-05-02,Grocery Store,38.90,expense,groceries
+2025-05-03,YouTube Premium,11.99,expense,subscription
+2025-05-03,Lunch,16.00,expense,food_drink
+2025-05-04,Uber Ride,15.50,expense,transportation
+2025-05-04,Online Shopping,67.99,expense,shopping
+2025-05-05,Gym Membership,49.99,expense,health
+2025-05-05,Dinner,52.00,expense,food_drink
+2025-05-06,Phone Bill,55.00,expense,bills_utilities
+2025-05-06,Coffee,4.50,expense,food_drink
+2025-05-07,Freelance Payment,600.00,income,income
+2025-05-07,Grocery Store,44.75,expense,groceries
+2025-05-08,Electric Bill,82.00,expense,bills_utilities
+2025-05-08,Fast Food,11.50,expense,food_drink
+2025-05-09,Movie Night,32.00,expense,entertainment
+2025-05-09,Coffee Shop,6.00,expense,food_drink
+2025-05-10,Weekend Brunch,40.00,expense,food_drink
+2025-05-10,Clothing,95.00,expense,shopping
+2025-05-11,Gas Station,44.00,expense,transportation
+2025-05-11,Snacks,7.25,expense,food_drink
+2025-05-12,Transfer to Savings,500.00,expense,transfer
+2025-05-12,Lunch,15.00,expense,food_drink
+2025-05-13,Online Course,24.99,expense,education
+2025-05-13,Coffee,5.50,expense,food_drink
+2025-05-14,Grocery Store,57.80,expense,groceries
+2025-05-14,Dinner Out,47.00,expense,food_drink
+2025-05-15,Mid-month Bonus,250.00,income,income
+2025-05-15,Water Bill,33.00,expense,bills_utilities
+2025-05-16,Crypto Investment,150.00,expense,investment
+2025-05-16,Coffee,5.00,expense,food_drink
+2025-05-17,Spa Treatment,80.00,expense,health
+2025-05-17,Dinner,55.00,expense,food_drink
+2025-05-18,Public Transport,40.00,expense,transportation
+2025-05-18,Grocery Store,49.60,expense,groceries
+2025-05-19,Internet Bill,65.00,expense,bills_utilities
+2025-05-19,Coffee,4.75,expense,food_drink
+2025-05-20,Side Hustle,350.00,income,income
+2025-05-20,New Headphones,79.99,expense,shopping

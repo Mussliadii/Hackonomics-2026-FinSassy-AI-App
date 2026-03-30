@@ -1,0 +1,25 @@
+{
+  "name": "finsassy-ai",
+  "version": "2.0.0",
+  "private": true,
+  "description": "FinSassy AI — Personal Finance AI that's Honest, Sassy, and Behavior-Changing",
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "test": "turbo run test",
+    "dev:web": "cd apps/web && npm run dev",
+    "dev:api": "cd services/api && uvicorn main:app --reload --port 8000",
+    "dev:ml": "cd services/ml && uvicorn main:app --reload --port 8001",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down",
+    "seed": "python scripts/seed-demo-data.py"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "turbo": "^2.0.0"
+  }
+}

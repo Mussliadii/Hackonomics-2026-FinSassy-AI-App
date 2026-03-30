@@ -1,0 +1,33 @@
+date,description,amount,type,category
+2026-03-01,Monthly Salary,5000000,income,income
+2026-03-01,Freelance Design Project,1500000,income,income
+2026-03-02,Grocery Shopping - Superindo,187500,expense,groceries
+2026-03-03,Grab Ride to Office,35000,expense,transport
+2026-03-04,Netflix Subscription,54000,expense,entertainment
+2026-03-05,Lunch at Warteg,25000,expense,food
+2026-03-06,Electricity Bill,350000,expense,utilities
+2026-03-07,Coffee at Kopi Kenangan,29000,expense,food
+2026-03-08,Gym Monthly Membership,250000,expense,health
+2026-03-09,Tokopedia - Phone Case,75000,expense,shopping
+2026-03-10,Internet Bill (IndiHome),399000,expense,utilities
+2026-03-11,Dinner with Friends,120000,expense,food
+2026-03-12,Gojek to Mall,22000,expense,transport
+2026-03-13,Weekly Groceries,210000,expense,groceries
+2026-03-14,Spotify Premium,59000,expense,entertainment
+2026-03-15,Side Hustle Payment,800000,income,income
+2026-03-15,Water Bill,95000,expense,utilities
+2026-03-16,Shopee - Skincare,145000,expense,shopping
+2026-03-17,Breakfast at McDonalds,42000,expense,food
+2026-03-18,Pertamina Fuel,150000,expense,transport
+2026-03-19,Snacks and Drinks,35000,expense,food
+2026-03-20,Movie Tickets - CGV,90000,expense,entertainment
+2026-03-21,Laundry Service,40000,expense,utilities
+2026-03-22,Birthday Gift for Friend,200000,expense,shopping
+2026-03-23,Indomaret Groceries,98000,expense,groceries
+2026-03-24,Vitamin Supplements,125000,expense,health
+2026-03-25,Grab Food Delivery,55000,expense,food
+2026-03-26,Cloud Storage Subscription,27000,expense,entertainment
+2026-03-27,Parking Fees,15000,expense,transport
+2026-03-28,Dividend Income,350000,income,income
+2026-03-29,Weekend Brunch,85000,expense,food
+2026-03-30,Monthly Phone Plan,99000,expense,utilities
