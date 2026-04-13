@@ -398,6 +398,12 @@ Currency formatting adapts automatically:
 
 ---
 
+## 🏆 Hackonomics Award
+
+![Hackonomics Award](Hackonomics%20Award%20Cert.png)
+
+---
+
 ## 👥 Team
 
 Built with 🔥 for Hackonomics 2026
